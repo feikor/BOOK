@@ -5,6 +5,8 @@ UPDATE `cr_book_episodes` SET `bid` ='1' WHERE `id`<=210
 
 UPDATE `cr_book_episodes` SET `money` ='0' WHERE `id`<=15
 
+UPDATE `cr_book_episodes` SET `money` ='0' WHERE `id`>=211 and `id`<=225
+
 绝品小农民
 https://www.kuaiyankanshu.net/801663/dir.html
 https://www.kuaiyankanshu.net/801663/ 差
@@ -14,6 +16,11 @@ https://www.kuaiyankanshu.net/801663/read_[参数1].html
 顶点
 https://www.dingdianxs.com/
 宠妻总裁坏透了 连载
-https://www.dingdianxs.com/18/18287/
+https://www.dingdianxs.com/18/18287/  503错误
+
+
+宠妻总裁坏透了
+https://www.biquga.com/1_1662/ 笔趣阁
+
 
 
