@@ -43,5 +43,6 @@ https://www.zongcaidarentilihaoya.com/read/1036_[参数1].html
 <ul class="list-group list-charts">
   </ul>
 
-
+快意恩仇小神医（全）
+https://www.33xs.com/33xs/214/214176/
 
