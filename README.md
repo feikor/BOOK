@@ -33,5 +33,12 @@ https://www.biquga.com/1_1662/ 笔趣阁
 
 https://www.biquge5.com/27_27412/[参数1].html
 
+http://www.f96.net/34/34670/书香阁
+
+快意恩仇小神医
+https://www.zongcaidarentilihaoya.com/book/1036.html
+
+
+
 
 
