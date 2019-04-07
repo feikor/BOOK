@@ -46,3 +46,6 @@ https://www.zongcaidarentilihaoya.com/read/1036_[参数1].html
 快意恩仇小神医（全）
 https://www.33xs.com/33xs/214/214176/
 
+6 都市仙尊
+https://www.biqiuge.com/book/36242/
+
