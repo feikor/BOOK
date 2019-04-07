@@ -38,7 +38,10 @@ http://www.f96.net/34/34670/书香阁
 快意恩仇小神医
 https://www.zongcaidarentilihaoya.com/book/1036.html
 
-
+<a href="/read/1036_[参数].html" rel="nofollow">(*)</a>
+https://www.zongcaidarentilihaoya.com/read/1036_[参数1].html
+<ul class="list-group list-charts">
+  </ul>
 
 
 
