@@ -169,3 +169,50 @@ https://www.rzlib.net/b/65/65285/
 26.追妻擒心术 870
 https://www.mcmssc.com/5_5018/
 
+27.爱你是最深的执念
+https://www.rzlib.net/b/65/65528/
+
+28.王者归来 3622
+https://www.luocs.cn/0/46137/
+
+
+29.妙医圣手
+http://www.biquge.io/book_67262/
+
+30.花都神医
+https://www.biquge5.com/15_15912/
+<div id="list">
+<title>(*)_[参数]_(*)</title>
+<a href="https://www.biquge5.com/15_15912/
+[参数].html">(*)</a>
+https://www.biquge5.com/15_15912/[参数1].html  
+  
+
+
+31.重生之最强大师
+https://www.dingdianxs.com/5/5018/  
+<title>[参数]_(*)_(*)</title>
+
+32.重生弃少
+https://www.dingdianxs.com/29/29977/
+
+
+33.步步生枭283完
+https://www.235zw.com/book/14921/  文字乱码
+<title>[参数]_(*)_(*)</title>
+https://www.dingdianxs.com/5/5215/
+ 
+白云斋没问题   有403
+https://www.mengzeda.cn/shu3916/
+
+
+35.金牌人生 1120
+https://www.dingdianxs.com/6/6186/
+<title>[参数]_(*)_(*)</title>
+
+
+36.财运天降332
+https://www.rzlib.net/b/71/71662/
+
+
+
