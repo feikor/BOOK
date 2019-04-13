@@ -1,4 +1,5 @@
 # BOOK
+https://www.kanshushenzhan.com/104170/
 一首长大人别嘚瑟  看书神站：https://www.kanshushenzhan.com/104170/
 区域：<div class="chapterCon"> </div>
 1-210
@@ -8,6 +9,7 @@ UPDATE `cr_book_episodes` SET `money` ='0' WHERE `id`<=15
 
 UPDATE `cr_book_episodes` SET `money` ='0' WHERE `id`>=211 and `id`<=225
 
+https://www.kuaiyankanshu.net/801663/dir.html
 2.绝品小农民
 https://www.kuaiyankanshu.net/801663/dir.html
 https://www.kuaiyankanshu.net/801663/ 差
@@ -56,13 +58,14 @@ https://www.33xs.com/33xs/214/214176/
 首发、域名、请记住_③③^小_说_网ω、ω、ω.З、З、x`s.c、o-м文字更新/速度最駃
 【㈢㈢】`小`说`网 м.3\3\x\s.c/óм手机阅读ろろ小說
 
+https://www.52bqg.com/book_110254/
 6.都市仙尊  1019
 https://www.biqiuge.com/book/36242/
 
 https://www.52bqg.com/book_110254/   k  1019  good
 一秒记住【笔趣阁 www.52bqg.com】，精彩小说无弹窗免费阅读！
 
-
+https://www.dingdianxs.com/31/31499/
 7.我和校花在荒岛肖辰 1176  503错误
 
 https://www.dingdianxs.com/31/31499/
@@ -75,6 +78,7 @@ songshu566
 8.后半生  王辰军 335
 https://www.dingdianxs.com/7/7376/ 
 
+https://www.rzlib.net/b/33/33996/
 9.完美人生 3040个链接 3070章
 https://www.dingdianxs.com/27/27162/
 
@@ -83,14 +87,16 @@ https://www.rzlib.net/b/33/33996/
 <div class="ListTitle">《完美人生》正文</div>
 <div class="ListChapter">
 
-
+https://www.luoqiuzw.com/book/84683/
 10.前夫复婚过期不候  63
 https://www.luoqiuzw.com/
 https://www.luoqiuzw.com/book/84683/
 
+https://www.x82xs.com/go/55601/
 11. 男神爹地别玩火-温若晴-女频 少693和694章节  716章
 八二小说网： 
 https://www.x82xs.com/go/55601/
+
 
 12.甜蜜陷阱：爹地别想逃_日照小说   274
 https://www.rzlib.net/b/69/69747/
@@ -99,7 +105,8 @@ https://www.rzlib.net/b/69/69747/29954028.html
 <div class="ListChapter">
 如果您觉得《甜蜜陷阱：爹地别想逃》还不错的话，请粘贴以下网址分享给你的QQ、微信或微博好友，谢谢支持！
 （ 本书网址：https://www.rzlib.net/b/69/69747/ ）
-  
+ 
+https://www.rzlib.net/b/69/69452/ 
 13.99次离婚：娇妻，休想逃_追书帮   484
 https://www.zhuishubang.com/116564/
 
@@ -213,6 +220,22 @@ https://www.dingdianxs.com/6/6186/
 
 36.财运天降332
 https://www.rzlib.net/b/71/71662/
+
+
+37.乘龙快婿
+https://www.shenpinwu.com/35/35885/
+
+
+38.流年
+https://www.rzlib.net/b/63/63627/
+
+39.边走边爱
+https://www.rzlib.net/b/25/25662/
+
+CREATE TABLE `redushu`.`book0` ( `id` INT(11) UNSIGNED NOT NULL COMMENT '章节ID' , `title` VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL COMMENT '章节标题' , `bid` INT(11) NOT NULL DEFAULT '0' COMMENT '小说ID' , `money` FLOAT(10,2) NOT NULL DEFAULT '0.00' COMMENT '阅读需要的费用' , `info` TEXT NOT NULL COMMENT '章节内容' , `is_attention` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '是否推荐关注章节： 0不推荐 1推荐' , `is_recommend` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '是否推荐文案章节： 0不推荐 1推荐 ' , `is_wenan` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '生成文案： 0不生成 1生成' , `create_time` INT(11) NOT NULL DEFAULT '0' COMMENT '创建时间戳' , `update_time` INT(11) NOT NULL DEFAULT '0' COMMENT '最后更新时间戳' , `sort` SMALLINT(5) NOT NULL DEFAULT '9999' COMMENT '排序字段' ) ENGINE = MyISAM CHARSET=utf8 COLLATE utf8_general_ci COMMENT = '小说章节内容表';
+
+
+CREATE TABLE `redushu`.`book0` ( `id` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT COMMENT '章节ID' , `title` VARCHAR(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '章节标题' , `bid` INT(11) NOT NULL DEFAULT '0' COMMENT '小说ID' , `money` FLOAT(10,2) NOT NULL DEFAULT '0.00' COMMENT '阅读需要的费用' , `info` TEXT NOT NULL COMMENT '章节内容' , `is_attention` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '是否推荐关注章节： 0不推荐 1推荐' , `is_recommend` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '是否推荐文案章节： 0不推荐 1推荐 ' , `is_wenan` TINYINT(1) NOT NULL DEFAULT '0' COMMENT '生成文案： 0不生成 1生成' , `create_time` INT(11) NOT NULL DEFAULT '0' COMMENT '创建时间戳' , `update_time` INT(11) NOT NULL DEFAULT '0' COMMENT '最后更新时间戳' , `sort` SMALLINT(5) NOT NULL DEFAULT '9999' COMMENT '排序字段' , PRIMARY KEY (`id`)) ENGINE = MyISAM CHARSET=utf8 COLLATE utf8_general_ci COMMENT = '小说章节内容表'
 
 
 
